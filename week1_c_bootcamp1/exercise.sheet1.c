@@ -124,17 +124,17 @@
 
 //8
 
-#include <stdio.h>
+// #include <stdio.h>
 
-int main ()
-{
-    int a;
-    int b;
-    printf ("Enter a number\n");
-    scanf("%d", & a);
-    int factorial(int a) ;{
-        b = a*factorial(a-1);
-    }
-    printf ("The factorial of %d is %d", a, b);
-    return 0;
-}
+// int main ()
+// {
+//     int a;
+//     int b;
+//     printf ("Enter a number\n");
+//     scanf("%d", & a);
+//     int factorial(int a) ;{
+//         b = a*factorial(a-1);
+//     }
+//     printf ("The factorial of %d is %d", a, b);
+//     return 0;
+// }
